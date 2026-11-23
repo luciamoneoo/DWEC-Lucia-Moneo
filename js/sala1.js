@@ -1,0 +1,1 @@
+//aquí iran las salas (como las del html)
